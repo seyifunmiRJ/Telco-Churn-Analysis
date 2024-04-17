@@ -25,7 +25,7 @@ NonChurn Customers – This was calculated using “Customer count – Churn Cou
 -----------
 
 # Data Visualization: 
-Data Visualization was done with Microsoft Excel.
+Data Visualization was done with Microsoft Excel depicting churn rate by Contracts, Partners, Senior Citizens and Dependant. It also shows the average monthly charge for each parameter.
 
 ---------
 
